@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sample</folder>
+	<filename>WhatsApp Image 2019-01-16 at 3.00.24 PM.jpeg</filename>
+	<path>/home/bharat/Downloads/sample/WhatsApp Image 2019-01-16 at 3.00.24 PM.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>189</ymin>
+			<xmax>787</xmax>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+</annotation>
